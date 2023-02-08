@@ -18,3 +18,4 @@ Clean code is code which is easy to read and understand BY HUMANS.
 
 Clean code is about questionning the code you have and trying it to make it better, is not about checking rules.
 
+[Return to Home](../README.md)

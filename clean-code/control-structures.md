@@ -4,7 +4,7 @@ Prefer positive wording, this means to use truthy name/statements instead of fal
 
 Avoid deeo nesting, for example by using "Guards", which are if statement that would return the function when something is not met, or by extracting control structures into separate functions.
 
-COnsider using polymorphism and factory functinos to avoid code duplication, look at the example below. 
+Consider using polymorphism and factory functinos to avoid code duplication, look at the example below. 
 
 Also, use **real errors** instead of **synthetic errors** replicated with if statements.
 
@@ -276,4 +276,4 @@ function processPlanRefund(transaction) {
 
 ```
 
-[Return to Home](./README.md)
+[Return to Intro](./intro.md)

@@ -142,4 +142,4 @@ You should strive to make sure you have impure functions, but there may be occat
 
 Showing a message to the user is a change to the state of the program, bear that in mind.
 
-[Return to Home](./README.md)
+[Return to Intro](./intro.md)

@@ -108,4 +108,4 @@ Classes should typically stay small, or at least that would be the preferred way
 
 How well are the class methods using the class properties? This is a good question to help us know when a class is too "big". This concept is know as **cohesion**.
 
-[Return to Home](./README.md)
+[Return to Intro](./intro.md)

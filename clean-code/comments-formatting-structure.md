@@ -97,4 +97,4 @@ log_storage.create_directory()
 log_storage.insert_file('test.txt', 'Test')
 ```
 
-[Return to Home](./README.md)
+[Return to Intro](./intro.md)

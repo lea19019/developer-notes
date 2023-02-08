@@ -199,4 +199,4 @@ print(rectangle.get_area())
 rectangle.print_coordinates()
 ```
 
-[Return to Home](./README.md)
+[Return to Intro](./intro.md)
